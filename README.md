@@ -1,7 +1,7 @@
 # dani
 portátiles
 
-
+#preguntas especiales
 
 1¿Cuáles son los principales riesgos o problemas que pueden surgir si no se realiza mantenimiento preventivo en los portátiles?
 
